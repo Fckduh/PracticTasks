@@ -1,0 +1,15 @@
+D:\Repos\PracticTask2\bin\Debug\net7.0\PracticTask2.exe
+D:\Repos\PracticTask2\bin\Debug\net7.0\PracticTask2.deps.json
+D:\Repos\PracticTask2\bin\Debug\net7.0\PracticTask2.runtimeconfig.json
+D:\Repos\PracticTask2\bin\Debug\net7.0\PracticTask2.dll
+D:\Repos\PracticTask2\bin\Debug\net7.0\PracticTask2.pdb
+D:\Repos\PracticTask2\obj\Debug\net7.0\PracticTask2.csproj.AssemblyReference.cache
+D:\Repos\PracticTask2\obj\Debug\net7.0\PracticTask2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\PracticTask2\obj\Debug\net7.0\PracticTask2.AssemblyInfoInputs.cache
+D:\Repos\PracticTask2\obj\Debug\net7.0\PracticTask2.AssemblyInfo.cs
+D:\Repos\PracticTask2\obj\Debug\net7.0\PracticTask2.csproj.CoreCompileInputs.cache
+D:\Repos\PracticTask2\obj\Debug\net7.0\PracticTask2.dll
+D:\Repos\PracticTask2\obj\Debug\net7.0\refint\PracticTask2.dll
+D:\Repos\PracticTask2\obj\Debug\net7.0\PracticTask2.pdb
+D:\Repos\PracticTask2\obj\Debug\net7.0\PracticTask2.genruntimeconfig.cache
+D:\Repos\PracticTask2\obj\Debug\net7.0\ref\PracticTask2.dll

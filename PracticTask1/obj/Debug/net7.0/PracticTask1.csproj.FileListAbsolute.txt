@@ -1,0 +1,15 @@
+D:\Repos\ConsoleApp3\bin\Debug\net7.0\PracticTask1.exe
+D:\Repos\ConsoleApp3\bin\Debug\net7.0\PracticTask1.deps.json
+D:\Repos\ConsoleApp3\bin\Debug\net7.0\PracticTask1.runtimeconfig.json
+D:\Repos\ConsoleApp3\bin\Debug\net7.0\PracticTask1.dll
+D:\Repos\ConsoleApp3\bin\Debug\net7.0\PracticTask1.pdb
+D:\Repos\ConsoleApp3\obj\Debug\net7.0\PracticTask1.csproj.AssemblyReference.cache
+D:\Repos\ConsoleApp3\obj\Debug\net7.0\PracticTask1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\ConsoleApp3\obj\Debug\net7.0\PracticTask1.AssemblyInfoInputs.cache
+D:\Repos\ConsoleApp3\obj\Debug\net7.0\PracticTask1.AssemblyInfo.cs
+D:\Repos\ConsoleApp3\obj\Debug\net7.0\PracticTask1.csproj.CoreCompileInputs.cache
+D:\Repos\ConsoleApp3\obj\Debug\net7.0\PracticTask1.dll
+D:\Repos\ConsoleApp3\obj\Debug\net7.0\refint\PracticTask1.dll
+D:\Repos\ConsoleApp3\obj\Debug\net7.0\PracticTask1.pdb
+D:\Repos\ConsoleApp3\obj\Debug\net7.0\PracticTask1.genruntimeconfig.cache
+D:\Repos\ConsoleApp3\obj\Debug\net7.0\ref\PracticTask1.dll
